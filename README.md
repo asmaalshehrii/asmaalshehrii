@@ -98,11 +98,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Come+back+soon!;Happy+Coding!" alt="Typing SVG" />
-  </a>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=84C2C0&height=70&section=footer"/>
