@@ -11,7 +11,6 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Master’s in Computer Science from **USC**
-- 🐶 Dog parent to **Caramello**
 - 📊 Passionate about **AI, Full-Stack Development, and Optimization**
 - 🧠 **Current Interests:**
   - **P vs NP & NP-Completeness**
@@ -19,7 +18,6 @@
   - **Graph Theory & Network Flows**
   - **Dynamic & Linear Programming**
   - **Cryptographic Protocols**
-- 🚀 Open to full-time roles in **Software Engineering**
 - 📫 **Email me** → [asmaalshee@gmail.com](mailto:asmaalshee@gmail.com)
 
   ## 🛠️ Tech Stack
