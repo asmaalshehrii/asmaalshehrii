@@ -1,16 +1,17 @@
-<!-- Enhanced Header with Gradient Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0,6FCF97&height=120&section=header&text=Welcome%20to%20Asma's%20GitHub&fontSize=40&fontColor=FFFFFF" />
 
-<!-- Dynamic Typing Animation with Modern Text -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0,6FCF97&height=120&section=header&text=Welcome%20to%20My%20GitHub&fontSize=36&fontColor=FFFFFF" alt="GitHub Welcome Banner" />
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0000FF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Asma+Alshehri;Software+Engineer;Problem+Solver;Lover+of+AI%2C+Algorithms;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hello+and+welcome.;I'm+Asma+Alshehri.;A Software+Engineer;AI+%26+Algorithms+Enthusiast.;Exploring+technology+through+code." alt="Typing Animation" />
 </div>
 
 
+
+
 ## 🧑‍💻 About Me
-- 🎓 Master’s in Computer Science from **USC**
+- 🎓 Bachelor’s & Master’s in Computer Science
+- **M.S.** from **University of Southern California (USC)**
+- **B.S.** from KKU
 - 📊 Passionate about **AI, Full-Stack Development, and Optimization**
 - 🧠 **Current Interests:**
   - **P vs NP & NP-Completeness**
